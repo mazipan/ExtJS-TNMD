@@ -1,0 +1,57 @@
+{
+    "chart": {
+        "manageresize": "1",
+        "origw": "350",
+        "origh": "200",
+        "palette": "2",
+        "bgalpha": "0",
+        "bgcolor": "FFFFFF",
+        "lowerlimit": "0",
+        "upperlimit": "100",
+        "numbersuffix": "%",
+        "showborder": "0",
+        "basefontcolor": "FFFFDD",
+        "charttopmargin": "5",
+        "chartbottommargin": "5",
+        "tooltipbgcolor": "009999",
+        "gaugefillmix": "{dark-10},{light-70},{dark-10}",
+        "gaugefillratio": "3",
+        "pivotradius": "8",
+        "gaugeouterradius": "120",
+        "gaugeinnerradius": "70%",
+        "gaugeoriginx": "175",
+        "gaugeoriginy": "170",
+        "trendvaluedistance": "5",
+        "tickvaluedistance": "3",
+        "managevalueoverlapping": "1",
+        "autoaligntickvalues": "1"
+    },
+    "colorrange": {
+        "color": [
+            {
+                "minvalue": "0",
+                "maxvalue": "45",
+                "code": "FF654F"
+            },
+            {
+                "minvalue": "45",
+                "maxvalue": "80",
+                "code": "F6BD0F"
+            },
+            {
+                "minvalue": "80",
+                "maxvalue": "100",
+                "code": "8BBA00"
+            }
+        ]
+    },
+    "dials": {
+        "dial": [
+            {
+                "value": "72",
+                "rearextension": "10",
+                "basewidth": "10"
+            }
+        ]
+    }
+}
