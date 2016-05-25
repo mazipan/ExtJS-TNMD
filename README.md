@@ -2,8 +2,11 @@
 TNMD - Through Network Monitoring Dashboard
 This is mockup for network dashboard that develop with ExtJS version 5.0.1 and FusionChart</br>
 
-Preview : https://mazipanneh.wordpress.com/portfolio/tnmd/</br>
+Preview : </br>
 <a href="https://mazipanneh.wordpress.com/portfolio/tnmd/" target="_blank"><img src="https://i1.wp.com/i1176.photobucket.com/albums/x322/mazipanneh/TMND_zpspux2ffff.png" alt="TNMD" /></a>
+
+Read more : </br>
+<a href="https://mazipanneh.wordpress.com/portfolio/tnmd/" target="_blank">https://mazipanneh.wordpress.com/portfolio/tnmd/</a>
   
 *Note :</br>
     In index.html there is path that you must change because it not include in this project, like : </br>
