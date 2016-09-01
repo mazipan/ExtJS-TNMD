@@ -10,7 +10,6 @@ This is mockup for network dashboard that develop with ExtJS version 5.0.1 and F
 - FusionChart
 - Google Maps API V3
 
-<br/>
 <h3>Installation</h3>
 *Note :</br>
     In index.html there is path that you must change because it not include in this project, like : </br>
