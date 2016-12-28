@@ -1,0 +1,118 @@
+{
+    "chart": {
+        "baseFontSize": "7",
+        "baseFontColor": "FFFFFF",
+        "showvalues": "1",
+        "interactiveLegend": "1",
+        "canvasBorderThickness": "1",
+        "divLineThickness": "1",
+        "divLineAlpha" : "50",
+        "lineThickness": "1",
+        "showAlternateHGridColor": "0",
+        "showBorder": "0", 
+        "numDivLines": "5",
+        "numVDivLines": "12",
+        "outCnvBaseFontColor": "#000000",
+        "bgColor": "#FFFFFF",
+        "bgAlpha": "100",
+        "bgRatio": "100",
+        "canvasBgColor": "#FFFFFF",
+        "baseFontSize": "8",
+        "legendNumColumns": "5",
+        "baseFontColor": "#000000",
+        "plotGradientColor": "",
+        "paletteColors": "#de002c, #0091d4, #a72edb, #9d9d9d, #87cf02, #e9b4b0, #b9d1f5, #e1ef06, #52edfb, #3206ef"
+        
+    },
+    "categories": [
+        {
+            "category": [
+                {
+                    "label": " "
+                }
+            ]
+        }
+    ],
+    "dataset": [
+        {
+            "seriesname": " Google.com",
+            "data": [
+                {
+                    "value": "28"
+                }
+            ]
+        },
+        {
+            "seriesname": "Amazon.com",
+            "data": [
+                {
+                    "value": "27"
+                }
+            ]
+        },
+        {
+            "seriesname": "Facebook.com",
+            "data": [
+                {
+                    "value": "26"
+                }
+            ]
+        },
+        {
+            "seriesname": "Twitter.com",
+            "data": [
+                {
+                    "value": "24"
+                }
+            ]
+        },
+        {
+            "seriesname": "Yahoo.com",
+            "data": [
+                {
+                    "value": "22"
+                }
+            ]
+        },
+        {
+            "seriesname": "Youtube.com",
+            "data": [
+                {
+                    "value": "20"
+                }
+            ]
+        },
+        {
+            "seriesname": "Mudah.my",
+            "data": [
+                {
+                    "value": "18"
+                }
+            ]
+        },
+        {
+            "seriesname": "Malaysiakini.com",
+            "data": [
+                {
+                    "value": "16"
+                }
+            ]
+        },
+        {
+            "seriesname": "Lazada.com.my",
+            "data": [
+                {
+                    "value": "15"
+                }
+            ]
+        },
+        {
+            "seriesname": "Themalaysianinsider.com",
+            "data": [
+                {
+                    "value": "6"
+                }
+            ]
+        }
+    ]
+}

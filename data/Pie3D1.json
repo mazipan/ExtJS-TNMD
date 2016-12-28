@@ -1,0 +1,27 @@
+{
+    "chart": {
+        "showpercentvalues": "0",  
+        "showvalues": "0",   
+        "baseFontSize": "9",
+        "baseFontColor": "#000000",
+        "paletteColors": "#0091d4, #de002c, #87cf02, #a72edb, #9d9d9d, #e9b4b0, #b9d1f5, #e1ef06, #52edfb, #3206ef"
+    },
+    "data": [
+        {
+            "label": "MAIL",
+            "value": "10.5"
+        },
+        {
+            "label": "VIDEO",
+            "value": "29.5"
+        },
+        {
+            "label": "VoiP",
+            "value": "18"
+        },
+        {
+            "label": "WWW",
+            "value": "42"
+        }
+    ]
+}

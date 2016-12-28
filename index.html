@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<!-- <meta http-equiv="refresh" content="900" /> -->
+
+<title>Through Network Monitoring Dashboard</title>   
+
+	<!--  CSS for ExtJs theme and font-awesome reference -->
+    <link rel="stylesheet" 
+            href="https://cdnjs.cloudflare.com/ajax/libs/extjs/6.0.0/classic/theme-gray/resources/theme-gray-all.css" />   
+    <link rel="stylesheet" 
+            href="https://cdnjs.cloudflare.com/ajax/libs/extjs/6.0.0/packages/charts/classic/classic/resources/charts-all.css">
+    <link rel="alternate" 
+            href="https://cdnjs.cloudflare.com/ajax/libs/extjs/6.0.0/packages/ux/classic/classic/resources/ux-all.css">
+	<link rel="stylesheet" 
+            href="./fontawesome/css/font-awesome.min.css" />
+	
+	<link rel="stylesheet" href="./script/css/style.css" />        
+    
+</head>
+<body oncontextmenu="return false;">
+	
+	<div id="progress-bar" style="width:100%; height:100%;">
+		<div id="progress-bar2">
+			<div id="loading-text">PLEASE WAIT...</div>
+			<div id="loading-image">
+				<img src="./images/ajax-loader.gif" />
+			</div>
+		</div>
+	</div>
+	
+	<script type="text/javascript" 
+            src="./script/lib/jquery-2.1.1.min.js">
+    </script>      
+    <script type="text/javascript" 
+            src="https://cdnjs.cloudflare.com/ajax/libs/extjs/6.0.0/ext-all.js">
+    </script>     
+    <script type="text/javascript" 
+            src="https://cdnjs.cloudflare.com/ajax/libs/extjs/6.0.0/packages/charts/classic/charts.js">
+    </script>     
+
+    <script type="text/javascript" 
+            src="http://static.fusioncharts.com/code/latest/fusioncharts.js"></script>
+    <script type="text/javascript" 
+            src="http://static.fusioncharts.com/code/latest/fusioncharts.charts.js"></script> 
+    
+        
+    <script async defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCqVtHdUyAijDEsE4WP7MO23e8vSuRk1Oc&sensor=false">
+    </script>
+    
+    <!-- External javascript for extended function -->           
+    <script type="text/javascript" src="./script/js/function.js"></script>
+    
+    <!-- Gmaps Curve Line Library -->
+    <script type="text/javascript" src="./script/lib/curve-line/curved.line-0.0.2.js"></script>
+        
+    <!-- Ext Datetime UX -->
+    <script type="text/javascript" src="./script/lib/ux-datetime/UX_TimePickerField.js"></script>
+    <script type="text/javascript" src="./script/lib/ux-datetime/UX_DateTimePicker.js"></script>
+    <script type="text/javascript" src="./script/lib/ux-datetime/UX_DateTimeField.js"></script>
+    <script type="text/javascript" src="./script/lib/ux-datetime/UX_DateTimeMenu.js"></script>
+    
+    <!-- ExtJs Main Application -->
+    <script type="text/javascript" src="./app.js"></script>  
+	
+</body>
+</html>
