@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# mazipan.github.io - 2017-12-15 19:50
+# mazipan.github.io - 2017-12-15 19:60
 # This part will be store in cache
 
 https://cdnjs.cloudflare.com/ajax/libs/extjs/6.0.0/classic/theme-gray/resources/theme-gray-all.css 
@@ -12,6 +12,7 @@ http://mazipan.github.io/ExtJS-TNMD/fontawesome/css/font-awesome.min.css
 https://fonts.googleapis.com/css?family=Roboto:300,400,500,700
 
 https://cdnjs.cloudflare.com/ajax/libs/extjs/6.0.0/ext-all.js
+
 https://static.fusioncharts.com/code/latest/fusioncharts.js
 https://static.fusioncharts.com/code/latest/fusioncharts.charts.js
 https://static.fusioncharts.com/code/latest/fusioncharts.js?cacheBust=8232
