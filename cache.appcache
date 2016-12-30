@@ -1,0 +1,36 @@
+CACHE MANIFEST
+# mazipan.github.io - 2017-12-15 19:50
+# This part will be store in cache
+
+https://cdnjs.cloudflare.com/ajax/libs/extjs/6.0.0/classic/theme-gray/resources/theme-gray-all.css 
+https://cdnjs.cloudflare.com/ajax/libs/extjs/6.0.0/packages/charts/classic/classic/resources/charts-all.css
+https://cdnjs.cloudflare.com/ajax/libs/extjs/6.0.0/packages/ux/classic/classic/resources/ux-all.css
+
+http://mazipan.github.io/ExtJS-TNMD/script/css/style.css
+http://mazipan.github.io/ExtJS-TNMD/fontawesome/css/font-awesome.min.css
+
+https://fonts.googleapis.com/css?family=Roboto:300,400,500,700
+
+https://cdnjs.cloudflare.com/ajax/libs/extjs/6.0.0/ext-all.js
+https://static.fusioncharts.com/code/latest/fusioncharts.js
+https://static.fusioncharts.com/code/latest/fusioncharts.charts.js
+https://static.fusioncharts.com/code/latest/fusioncharts.js?cacheBust=8232
+https://static.fusioncharts.com/code/latest/fusioncharts.charts.js?cacheBust=8232
+
+http://mazipan.github.io/ExtJS-TNMD/app.js
+http://mazipan.github.io/ExtJS-TNMD/script/js/function.js
+http://mazipan.github.io/ExtJS-TNMD/script/lib/jquery-2.1.1.min.js
+http://mazipan.github.io/ExtJS-TNMD/script/lib/curve-line/curved.line-0.0.2.js
+http://mazipan.github.io/ExtJS-TNMD/script/lib/ux-datetime/UX_TimePickerField.js
+http://mazipan.github.io/ExtJS-TNMD/script/lib/ux-datetime/UX_DateTimePicker.js
+http://mazipan.github.io/ExtJS-TNMD/script/lib/ux-datetime/UX_DateTimeField.js
+http://mazipan.github.io/ExtJS-TNMD/script/lib/ux-datetime/UX_DateTimeMenu.js
+
+https://www.google-analytics.com/analytics.js
+https://maps.googleapis.com/maps/api/js?key=AIzaSyCqVtHdUyAijDEsE4WP7MO23e8vSuRk1Oc
+
+
+NETWORK:
+# This part will be exclude from cache
+./index.html
+https://www.google-analytics.com/*
