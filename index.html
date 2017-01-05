@@ -74,5 +74,25 @@
     
     <!-- ExtJs Main Application -->
     <script type="text/javascript" src="./app.js"></script>  	
+
+
+    <script>
+        function _trackLink(linkClick, category, action){
+            if(!category) category = 'Link';
+            if(!action) action = 'click';
+            ga('send', {
+              hitType: 'event',
+              eventCategory: category,
+              eventAction: action,
+              eventLabel: linkClick
+            });
+          }    
+
+          $(window).load(function(){
+            try{
+              _trackLink('demo ExtJS-TNMD', 'demo', 'visit directly');
+            }catch(err){}
+          });
+    </script> 
 </body>
 </html>
